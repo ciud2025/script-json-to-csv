@@ -1,0 +1,28 @@
+{
+  "name": "script-json-to-csv",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "start:inspect": "node --inspect-brk index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wochap/script-json-to-csv.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wochap/script-json-to-csv/issues"
+  },
+  "homepage": "https://github.com/wochap/script-json-to-csv#readme",
+  "devDependencies": {
+    "JSONStream": "^1.3.5",
+    "csv-write-stream": "^2.0.0",
+    "event-stream": "^4.0.1",
+    "papaparse": "^5.1.1",
+    "replace-in-file": "^5.0.2"
+  }
+}

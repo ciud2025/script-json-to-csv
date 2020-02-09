@@ -1,0 +1,10 @@
+{
+	"data": {
+		"ubicacionY": "l111ongitude1231232131",
+		"ubicacionX": "latitu11de1231232131",
+		"direccion": "direccion1231232131",
+		"rol": "rol1231232131",
+		"nombreComuna": "nombrecomuna1231232131",
+		"comuna": "codigo_sii1231232131"
+	}
+}
